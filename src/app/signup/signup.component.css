@@ -1,0 +1,26 @@
+.card {margin-right: 3rem;
+    border:none;
+    width: 500px;
+    padding: 5px;
+    position: absolute;
+    top: -110px;
+    left: 150px;
+    transform:translate(50%,50%);
+    background:(hsla205, 46%, 30%, alp1) ;
+    background-image:url(C:\Users\jerry.krishna\harikrishna241998/mphasis27.jpg);
+    
+    }
+    
+    .card  h1,h6{color:#fff; }
+    
+    label{color:#fff;}
+    
+
+    .text-center{text-align: center;}
+
+    .hari1{background-color: rgb(47, 0, 255);
+    border-radius: 20px;}
+
+    .label1{border-radius: 20px;
+    height: 20px;}
+
