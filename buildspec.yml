@@ -11,7 +11,7 @@ phases:
     commands:
       
       # run the build
-      - ng build --prod
+      - ng build
 artifacts:
   files:
     # bundle everything as a build artifact, except hidden files
